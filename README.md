@@ -1,7 +1,7 @@
 # list
 
 test
-
+a
 ## 型について
 
 list, dict, set, tupleの型アノテーションは:
